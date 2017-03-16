@@ -10,6 +10,7 @@ int main(array<System::String ^> ^args)
 		printf("vyvedi chhislo:\t");
 	scanf("%d",&i);
 	s=s+i;
+	s++;
 	s++;/*toq kod e hiper debilen hhahhahhahahah*/
 	printf("%d",s);
     /*Console::WriteLine(L"Hello World");*/
